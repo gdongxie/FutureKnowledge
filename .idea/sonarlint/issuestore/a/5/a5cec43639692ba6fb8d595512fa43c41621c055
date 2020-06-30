@@ -1,0 +1,16 @@
+
+M
+java:S1659"+Declare "card_pastExam" on a separate line.(τηνπόÿÿÿÿ8…–Λ®.
+E	java:S108 ")Either remove or fill this block of code.(Γέϊέ8νωψ©.
+y	java:S116"XRename this field "card_practice" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(τηνπόÿÿÿÿ8…–Λ®.
+y	java:S116"XRename this field "card_pastExam" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(τηνπόÿÿÿÿ8…–Λ®.
+j
+java:S1192D"HDefine a constant instead of duplicating this literal "isLogin" 3 times.(φΟ°Αψÿÿÿÿ8Β΅ΫΔ―.
+~	java:S116"]Rename this field "card_qualification" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(τηνπόÿÿÿÿ8…–Λ®.
+c
+java:S1192F"FDefine a constant instead of duplicating this literal "title" 3 times.(Ύ ή8ΡΫΕ―.
+M
+java:S1659"+Declare "card_practice" on a separate line.(τηνπόÿÿÿÿ8…–Λ®.
+}	java:S116"\Rename this field "card_simulateExam" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(τηνπόÿÿÿÿ8…–Λ®.
+Q
+java:S1659"/Declare "card_simulateExam" on a separate line.(τηνπόÿÿÿÿ8…–Λ®.

@@ -1,0 +1,10 @@
+
+x
+java:S1450"VRemove the "iv_back" field and declare it as a local variable in the relevant methods.(ÒûÕîüÿÿÿÿ8ÚÆÈ«®.
+
+java:S11866"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(±¾ê8ßŠÓ«®.
+v	java:S116"URename this field "btn_submit" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚¢Ÿšÿÿÿÿÿ8üôÊ«®.
+
+java:S1186("€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(«û³±8ßŠÓ«®.
+s	java:S116"RRename this field "iv_back" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÒûÕîüÿÿÿÿ8›òÇ«®.
+q	java:S116"URename this field "et_suggest" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Æ°¸Ø8¿ùÉ«®.

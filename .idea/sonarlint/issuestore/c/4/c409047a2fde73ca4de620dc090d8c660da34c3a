@@ -1,0 +1,11 @@
+
+E
+java:S1185."(Remove this method to simply inherit it.(ßìê¯8’±İ®.
+|
+java:S1450'"ZRemove the "dataAdapter" field and declare it as a local variable in the relevant methods.(Ğ±ûÿÿÿÿ8æœ÷¤¯.
+~
+java:S1450#"\Remove the "refreshLayout" field and declare it as a local variable in the relevant methods.(¤ºº“úÿÿÿÿ8ÿó¤¯.
+}
+java:S1450$"[Remove the "recyclerView" field and declare it as a local variable in the relevant methods.(¿á© ıÿÿÿÿ8ÿó¤¯.
+k
+java:S1128"IRemove this unused import 'com.futures.knowledge.ui.adapter.DataAdapter'.(õòµüÿÿÿÿ8¤î÷¤¯.

@@ -1,0 +1,11 @@
+
+X
+java:S1874>"<Remove this use of "FragmentPagerAdapter"; it is deprecated.(‘í›\8ûÆ¹Ý®.
+z
+java:S1450"XRemove the "viewPager" field and declare it as a local variable in the relevant methods.(åÙ¬Ïûÿÿÿÿ8ªâ“Ý®.
+u
+java:S1450"XRemove the "tabLayout" field and declare it as a local variable in the relevant methods.(¤×ä8ïË’Ý®.
+E
+java:S1185""(Remove this method to simply inherit it.(ßìê¯8¢Ä÷©.
+l
+java:S1874="JDon't override a deprecated method or explicitly mark it as "@Deprecated".(Ù°˜Ñþÿÿÿÿ8ûÆ¹Ý®.

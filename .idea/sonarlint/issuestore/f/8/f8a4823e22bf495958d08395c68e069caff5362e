@@ -1,0 +1,13 @@
+
+^
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(Í¶ó°8ÖÙŸ®.
+{
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(õüÕÇøÿÿÿÿ8ÖÙŸ®.
+A
+java:S1148"#Use a logger to log this exception.(Ü˜­8ÖÙŸ®.
+p
+java:S2095{"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(¾úƒşıÿÿÿÿ8ÖÙŸ®.
+F
+java:S1148„"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ÖÙŸ®.
+h
+java:S1124§"EReorder the modifiers to comply with the Java Language Specification.(äÔ·úüÿÿÿÿ8ÖÙŸ®.

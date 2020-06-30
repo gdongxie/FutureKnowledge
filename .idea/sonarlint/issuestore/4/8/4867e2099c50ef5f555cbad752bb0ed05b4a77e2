@@ -1,0 +1,37 @@
+
+u
+java:S1450#"XRemove the "tv_policy" field and declare it as a local variable in the relevant methods.(ùüØÒ8ğğ¾«®.
+d
+java:S1192K"HDefine a constant instead of duplicating this literal "isLogin" 4 times.(»şŒy8ëƒÂÄ¯.
+v	java:S116""URename this field "rl_suggest" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÉšñÛıÿÿÿÿ8ª´‡«®.
+u	java:S116""TRename this field "rl_update" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÉšñÛıÿÿÿÿ8î¾ô«®.
+z
+java:S1450""XRemove the "rl_update" field and declare it as a local variable in the relevant methods.(ÉšñÛıÿÿÿÿ8´õ«®.
+I
+java:S1659""'Declare "rl_logOut" on a separate line.(ÉšñÛıÿÿÿÿ8ı¤ú¯.
+t	java:S116!"SRename this field "tv_login" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®œ§›ÿÿÿÿÿ8Ê‰Â¬®.
+I
+java:S1659""'Declare "rl_update" on a separate line.(ÉšñÛıÿÿÿÿ8î¾ô«®.
+w
+java:S1450#"ZRemove the "tv_protocol" field and declare it as a local variable in the relevant methods.(ùüØÒ8ğğ¾«®.
+H
+java:S1659""&Declare "rl_about" on a separate line.(ÉšñÛıÿÿÿÿ8¢©÷¯.
+t	java:S116""SRename this field "rl_about" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÉšñÛıÿÿÿÿ8¢©÷¯.
+{
+java:S1450""YRemove the "rl_suggest" field and declare it as a local variable in the relevant methods.(ÉšñÛıÿÿÿÿ8Şˆ«®.
+y
+java:S1450""WRemove the "rl_about" field and declare it as a local variable in the relevant methods.(ÉšñÛıÿÿÿÿ8 Åª÷¯.
+u
+java:S1450 "XRemove the "cardLogin" field and declare it as a local variable in the relevant methods.(ÑŸ•Ó8ŞÜ´ª.
+H
+java:S1659!"&Declare "tv_login" on a separate line.(®œ§›ÿÿÿÿÿ8Ê‰Â¬®.
+p	java:S116#"TRename this field "tv_policy" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùüØÒ8óˆ½«®.
+F
+java:S1659#")Declare "tv_protocol" on a separate line.(ùüØÒ8óˆ½«®.
+k
+java:S1192Q"NDefine a constant instead of duplicating this literal "ç™»å½•/æ³¨å†Œ" 3 times.(ñÂ–¢8¯ƒèú¯.
+E
+java:S1185."(Remove this method to simply inherit it.(ßìê¯8í™ô©.
+r	java:S116#"VRename this field "tv_protocol" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùüØÒ8óˆ½«®.
+w	java:S116!"VRename this field "tv_username" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®œ§›ÿÿÿÿÿ8Œ‘‡ª®.
+u	java:S116""TRename this field "rl_logOut" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÉšñÛıÿÿÿÿ8ı¤ú¯.

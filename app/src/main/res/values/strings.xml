@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">期货题库宝</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_qualification">期货从业人员资格考试报名入口</string>
+    <string name="simulate_exam">模拟考试</string>
+    <string name="past_exam">历年真题</string>
+    <string name="section_practice">章节练习</string>
+    <string name="hint_username">请输入用户名</string>
+    <string name="hint_password">请输入密码</string>
+    <string name="login">登录</string>
+    <string name="noRegister">还没注册?</string>
+    <string name="registerNow">马上注册</string>
+    <string name="tv1">登录即同意</string>
+    <string name="user_protocol">《用户协议》</string>
+    <string name="and">和</string>
+    <string name="privacy_policy">《隐私政策》</string>
+    <string name="title_register">注册</string>
+    <string name="hint_advice">请输入您的意见或者建议</string>
+    <string name="title_web">期货从业人员资格考试网上报名</string>
+
+    <string name="privacy_exit">退出</string>
+    <string name="privacy_agree">同意</string>
+    <string name="users_note">用户须知</string>
+    <string name="privacy_tips_key1">《用户协议》</string>
+    <string name="privacy_tips_key2">《隐私政策》</string>
+    <string name="privacy_tips">感谢您使用期货题库宝软件！为了保护您的隐私和使用安全，请您务必仔细阅读我们的《用户协议》和《隐私政策》。在确认充分理解并同意后再开始使用此应用。感谢！</string>
+    <string name="confirmed">用户须知已确认</string>
+    <string name="opt_terms">用户协议</string>
+    <string name="opt_privacy">隐私政策</string>
+    <string name="desc_splash">专业全面的期货答题软件</string>
+</resources>

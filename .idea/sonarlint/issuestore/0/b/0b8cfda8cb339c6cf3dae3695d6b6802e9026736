@@ -1,0 +1,41 @@
+
+p	java:S116"ORename this field "rb_c" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßÇˆİûÿÿÿÿ8¥ˆÍì¯.
+n	java:S116"RRename this field "tv_type" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ò½”÷8™ó‚÷¯.
+h
+java:S1192C"KDefine a constant instead of duplicating this literal "qh.sqlite3" 3 times.(·Šåí8ğÚõ¯.
+B
+java:S1659"%Declare "tv_type" on a separate line.(Ò½”÷8™ó‚÷¯.
+u	java:S116"TRename this field "rg_answer" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ª®óùÿÿÿÿ8­ÕËì¯.
+o	java:S116"SRename this field "tv_index" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ò½”÷8Ü¾Êì¯.
+o	java:S116"SRename this field "tv_title" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ò½”÷8æÇÉì¯.
+F
+java:S1659")Declare "tv_question" on a separate line.(Ò½”÷8Ü¾Êì¯.
+C
+java:S1659"!Declare "num" on a separate line.(ù©€óÿÿÿÿÿ8ôîèî¯.
+n	java:S116"RRename this field "tv_next" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ò½”÷8‡úàğ¯.
+C
+java:S1659"&Declare "tv_parse" on a separate line.(Ò½”÷8±ı«ğ¯.
+o	java:S116"SRename this field "tv_parse" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ò½”÷8±ı«ğ¯.
+t
+java:S1450"WRemove the "tv_title" field and declare it as a local variable in the relevant methods.(Ò½”÷8ı²Œğ¯.
+j
+java:S1192b"HDefine a constant instead of duplicating this literal "%sã€€%s" 6 times.(®Ò•Îøÿÿÿÿ8Ÿ‰÷¯.
+A
+java:S1659"$Declare "tv_pre" on a separate line.(Ò½”÷8‡úàğ¯.
+D
+java:S1659""Declare "rb_c" on a separate line.(ßÇˆİûÿÿÿÿ8¥ˆÍì¯.
+r	java:S116"VRename this field "tv_question" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ò½”÷8Ü¾Êì¯.
+p	java:S116"ORename this field "rb_b" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßÇˆİûÿÿÿÿ8¥ˆÍì¯.
+D	java:S131""Add a default case to this switch.(ÿ«¬‹üÿÿÿÿ8¼±Æ÷¯.
+m	java:S116"QRename this field "tv_pre" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ò½”÷8‡úàğ¯.
+p	java:S116"ORename this field "rb_a" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßÇˆİûÿÿÿÿ8¥ˆÍì¯.
+D
+java:S1659""Declare "rb_b" on a separate line.(ßÇˆİûÿÿÿÿ8¥ˆÍì¯.
+C
+java:S1659"&Declare "tv_index" on a separate line.(Ò½”÷8Ü¾Êì¯.
+D
+java:S1659""Declare "rb_d" on a separate line.(ßÇˆİûÿÿÿÿ8¥ˆÍì¯.
+s	java:S116"RRename this field "iv_back" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÒûÕîüÿÿÿÿ8æÇÉì¯.
+p	java:S116"ORename this field "rb_d" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßÇˆİûÿÿÿÿ8¥ˆÍì¯.
+B
+java:S1659"%Declare "tv_next" on a separate line.(Ò½”÷8‡úàğ¯.

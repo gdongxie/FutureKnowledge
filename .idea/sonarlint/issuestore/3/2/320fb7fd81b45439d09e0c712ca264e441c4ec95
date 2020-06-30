@@ -1,0 +1,5 @@
+
+s	java:S116"RRename this field "iv_back" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÒûÕîüÿÿÿÿ8…¥µÃ¯.
+x
+java:S1450"VRemove the "iv_back" field and declare it as a local variable in the relevant methods.(ÒûÕîüÿÿÿÿ8ãµ¼Ã¯.
+{	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÄÆ¤Åıÿÿÿÿ8´¸ÌÃ¯.

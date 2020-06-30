@@ -1,0 +1,11 @@
+
+x
+java:S1450"VRemove the "iv_back" field and declare it as a local variable in the relevant methods.(ÇñÒ¢øÿÿÿÿ8´Ê×Á¯.
+s	java:S116"RRename this field "iv_back" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÇñÒ¢øÿÿÿÿ8ç‚ÔÁ¯.
+p	java:S116"URename this field "tv_content" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”ö¹=8»ÛÂ¯.
+D
+java:S1659"(Declare "tv_content" on a separate line.(”ö¹=8»ÛÂ¯.
+G
+java:S1659"%Declare "iv_icon" on a separate line.(ÇñÒ¢øÿÿÿÿ8›€Â¯.
+n	java:S116"SRename this field "tv_title" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”ö¹=8ç‚ÔÁ¯.
+s	java:S116"RRename this field "iv_icon" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÇñÒ¢øÿÿÿÿ8›€Â¯.

@@ -1,0 +1,20 @@
+
+u	java:S116"TRename this field "tv_policy" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­èÚ±ıÿÿÿÿ8‹–Ì®.
+w	java:S116"VRename this field "tv_protocol" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­èÚ±ıÿÿÿÿ8‹–Ì®.
+H
+java:S1659"&Declare "password" on a separate line.(ï­şıÿÿÿÿ8Ï‰­®.
+H
+java:S1659"+Declare "et_confirmPwd" on a separate line.(€‘Öå8ù‘Ê®.
+I
+java:S1659"'Declare "tv_policy" on a separate line.(­èÚ±ıÿÿÿÿ8‹–Ì®.
+r	java:S116"VRename this field "et_password" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€‘Öå8ù‘Ê®.
+s	java:S116"XRename this field "card_register" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ËŞ–<8ù‘Ê®.
+y
+java:S1450"WRemove the "userName" field and declare it as a local variable in the relevant methods.(ï­şıÿÿÿÿ8ÉßÚ¦®.
+F
+java:S1659")Declare "et_password" on a separate line.(€‘Öå8ù‘Ê®.
+y
+java:S1450"WRemove the "password" field and declare it as a local variable in the relevant methods.(ï­şıÿÿÿÿ8ÉßÚ¦®.
+r	java:S116"VRename this field "et_username" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€‘Öå8ù‘Ê®.
+t	java:S116"XRename this field "et_confirmPwd" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€‘Öå8ù‘Ê®.
+s	java:S116"RRename this field "iv_back" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÒûÕîüÿÿÿÿ8òä¼®.

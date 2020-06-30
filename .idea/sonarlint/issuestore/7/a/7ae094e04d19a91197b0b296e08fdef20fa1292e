@@ -1,0 +1,21 @@
+
+|
+java:S1450"ZRemove the "tv_app_name" field and declare it as a local variable in the relevant methods.(ùŒ¨ûÿÿÿÿ8±ıÕÌ¯.
+x
+java:S1450"VRemove the "tv_desc" field and declare it as a local variable in the relevant methods.(ùŒ¨ûÿÿÿÿ8±ıÕÌ¯.
+e
+java:S1192J"HDefine a constant instead of duplicating this literal "isAgree" 3 times.(Ú³¦8ûÍÊÌ¯.
+r	java:S117["QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·×éàüÿÿÿÿ8ü­ïÊ¯.
+r	java:S117Z"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Çãöùÿÿÿÿ8ü­ïÊ¯.
+G
+java:S1659"%Declare "tv_desc" on a separate line.(ùŒ¨ûÿÿÿÿ8ØÜÔÌ¯.
+r	java:S116 "VRename this field "iv_web_icon" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½åÙ8Á áÌ¯.
+
+java:S11868"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ğ«Ôƒ8•¨İÌ¯.
+s	java:S116"RRename this field "tv_desc" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùŒ¨ûÿÿÿÿ8ØÜÔÌ¯.
+r	java:S117\"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µçãÿÿÿÿÿ8ûÍÊÌ¯.
+w	java:S116"VRename this field "tv_app_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùŒ¨ûÿÿÿÿ8ØÜÔÌ¯.
+£
+java:S1186B"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(úƒÚÓûÿÿÿÿ8•¨İÌ¯.
+F
+java:S1659"*Declare "descTypeface" on a separate line.(ËÏé@8é¼ÊÌ¯.

@@ -1,0 +1,11 @@
+
+V
+java:S1117H"9Rename "title" which hides the field declared at line 27.(Ğ·ÂÊ8œÎøÅ¯.
+s	java:S116"RRename this field "iv_back" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÒûÕîüÿÿÿÿ8ó„õÄ¯.
+o	java:S116"SRename this field "tv_title" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†¾·8—ãöÄ¯.
+x
+java:S1450"VRemove the "iv_back" field and declare it as a local variable in the relevant methods.(ÒûÕîüÿÿÿÿ8¿ùÄ¯.
+}
+java:S1450"[Remove the "recyclerView" field and declare it as a local variable in the relevant methods.(¿á© ıÿÿÿÿ8ãı£Å¯.
+t
+java:S1450"WRemove the "tv_title" field and declare it as a local variable in the relevant methods.(†¾·8¿ùÄ¯.

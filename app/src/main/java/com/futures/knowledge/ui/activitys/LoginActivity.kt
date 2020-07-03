@@ -60,7 +60,7 @@ class LoginActivity : BaseActivity(), View.OnClickListener {
         sb.append("' and password='")
         sb.append(password)
         sb.append("'")
-        var cursor = sqLiteDatabase.rawQuery(sb.toString(), null)
+        val cursor = sqLiteDatabase.rawQuery(sb.toString(), null)
         Handler().postDelayed(Runnable {
             if (cursor.count > 0) {
                 loadingDialog.dismiss()
@@ -71,7 +71,7 @@ class LoginActivity : BaseActivity(), View.OnClickListener {
                 }
                 SharedPreferencesUtil.putString(applicationContext, "username", username)
                 SharedPreferencesUtil.putBoolean(applicationContext, "isLogin", true)
-                var intent = Intent(this, MainActivity::class.java)
+                val intent = Intent(this, MainActivity::class.java)
                 intent.putExtra("index", 3)
                 startActivity(intent)
             } else {
@@ -83,7 +83,7 @@ class LoginActivity : BaseActivity(), View.OnClickListener {
     }
 
     private class PhoneValidator : Validator("手机号不正确") {
-        var telRegex = "^((13[0-9])|(14[5,6,7,9])|(15[^4])|(16[5,6])|(17[0-9])|(18[0-9])|" +
+             var telRegex = "^((13[0-9])|(14[5,6,7,9])|(15[^4])|(16[5,6])|(17[0-9])|(18[0-9])|" +
                 "(19[1,8,9]))\\d{8}$"
 
         override fun isValid(et: EditText): Boolean {
